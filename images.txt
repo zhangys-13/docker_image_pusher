@@ -1,2 +1,2 @@
---platform=linux/arm64 quay.io/ascend/vllm-ascend:v0.17.0rc1
+--platform=linux/arm64 library/postgres:16.3
 
